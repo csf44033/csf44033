@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hello Gamers
+
+I like JS and webdesign (as a hobby), but I've tried PHP, Python, and other languages.
+
+I am currently 19.
+
+I like redundancy and lag.
+
+I have never progressed past local development.
+
+## I'm currently
+
+**NSP** 😄
 
 <!--
 **csf44033/csf44033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
