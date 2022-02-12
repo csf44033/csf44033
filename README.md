@@ -2,8 +2,6 @@
 
 I like JS and webdesign (as a hobby), but I've tried PHP, Python, and other languages.
 
-I am currently 19.
-
 I like redundancy and lag.
 
 I have never progressed past local development.
