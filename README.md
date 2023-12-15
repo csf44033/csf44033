@@ -1,7 +1,8 @@
 # Hello Gamers
 
--trying to program RP2040 chip with w5500 chip
+- Lol
 
+Isn't grd an ada filetype? Thorium guy and me should team up.
 <!--
 **csf44033/csf44033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
