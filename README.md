@@ -3,6 +3,8 @@
 - Lol
 
 Isn't grd an ada filetype? Thorium guy and me should team up.
+
+I have a discord bot I just turned it off because I was afraid the WiFi signals would give me cancer...
 <!--
 **csf44033/csf44033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
