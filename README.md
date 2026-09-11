@@ -3,6 +3,9 @@ Mostly chill, I only like hacking in Minecraft. Please keep cybercrime away from
 
 # Coding as an Art
 I like art, don't make it. I have dreams of commissioning the vilest artists on the internet to make a game about M&M's but I'm just going to let the dream rest for maybe another twenty years.
+
+# Making Connections
+Friends/family are welcome but if you have thousands of followers, I can't let you follow me, because that is some bot activity. Tell me a coder that actually has friends? OK, so I try to keep a small group.
 <!--
 **csf44033/csf44033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
