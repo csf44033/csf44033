@@ -1,6 +1,8 @@
 # Hello Gaymers
+Mostly chill but the Chinese spy balloon kind of screwed me over, now I got some punks from all over the globe tramping me down.
 
-lol
+# Coding as an Art
+I like art, don't make it. I have dreams of commissioning the vilest artists on the internet to make a game about M&M's but I'm just going to let the dream rest for maybe another twenty years.
 <!--
 **csf44033/csf44033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
